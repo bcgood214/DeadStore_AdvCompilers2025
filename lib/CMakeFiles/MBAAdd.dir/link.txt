@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall  -fdiagnostics-color=always -fvisibility-inlines-hidden -g -shared -Wl,-soname,libMBAAdd.so -o libMBAAdd.so CMakeFiles/MBAAdd.dir/MBAAdd.cpp.o   -L/usr/lib/llvm-21/lib 
